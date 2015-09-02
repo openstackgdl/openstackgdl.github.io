@@ -256,7 +256,7 @@ a.top:hover {
 }
 .page-block {
 	position: relative;
-	padding: 9.35em 0;
+	padding:0;
 	overflow: hidden;
 }
 .page-block-small {
