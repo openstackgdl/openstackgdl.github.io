@@ -751,7 +751,7 @@ header .logo a img {
 	z-index: 9;
 }
 #slides .absShape {
-	top: 50%;
+	top: 35%;
 }
 #slides h1 {
 	color: #fff;
@@ -1809,7 +1809,7 @@ header .logo img {
 /* iPads (portrait and landscape) ----------- */
 @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 #slides .absShape {
-	top: 35%;
+	top: 20%;
 }
 .styled {
 	padding: 1.35em 0;
