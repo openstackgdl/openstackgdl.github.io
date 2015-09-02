@@ -328,6 +328,10 @@ hr.light {
 	border-style: none none solid none;
 	margin: 1.5em 0;
 }
+.share-event{
+	color: #fff;
+	padding-top: 0.5em;
+}
 /* clearfix */
 .owl-carousel .owl-wrapper:after {
 	content: ".";
@@ -751,7 +755,7 @@ header .logo a img {
 	z-index: 9;
 }
 #slides .absShape {
-	top: 35%;
+	top: 30%;
 }
 #slides h1 {
 	color: #fff;
@@ -1744,7 +1748,7 @@ header .logo img {
 	opacity: 1;
 }
 #slides .absShape {
-	top: 26%;
+	top: 20%;
 }
 .hex {
 	width: 9em;
@@ -1809,7 +1813,7 @@ header .logo img {
 /* iPads (portrait and landscape) ----------- */
 @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 #slides .absShape {
-	top: 20%;
+	top: 15%;
 }
 .styled {
 	padding: 1.35em 0;
