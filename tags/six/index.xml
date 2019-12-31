@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>six on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/six/</link>
+    <description>Recent content in six on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/six/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Celebremos 6 años de OpenStack</title>
+      <link>https://openstackgdl.github.io/posts/openstack6/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/openstack6/</guid>
+      <description>OpenStack cumple 6 años de su lanzamiento. Es tiempo de celebrar!!! Gracias al patrocinio de la OpenStack Foundation tendremos una gran fiesta :-)
+ div.gallery { display: flex; flex-wrap: wrap; } div.gallery a { flex-grow: 1; object-fit: cover; margin: 2px; display: flex; } div.gallery a img { height: 200px; object-fit: cover; flex-grow: 1; }               Speakers: @openstackgdl</description>
+    </item>
+    
+  </channel>
+</rss>

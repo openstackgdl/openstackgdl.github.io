@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>installfest on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/installfest/</link>
+    <description>Recent content in installfest on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/installfest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack Installfest</title>
+      <link>https://openstackgdl.github.io/posts/installfest/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/installfest/</guid>
+      <description>Trae tu propia computadora, cables de red, routers para que instales tu Nube privada basada en OpenStack.
+Cupo Limitado a 20 participantes.
+Objetivo El objetivo compartir experiencias de instalación y configuración de componentes de OpenStack y para poder sacar máximo provecho del evento es necesario contar con los siguientes requerimientos:
+Requerimientos: Para instalar OpenStack en una maquinas física:  Sistema Operativo: CentOS 7 minimal Procesador: Procesador de 2 GHz o más rápido de 64 bits Memoria: 4 GB de memoria RAM Espacio de disco: 100 GB  Para instalar OpenStack en una maquinas virtual: Memoria: 8 GB de memoria RAM (maquina host)</description>
+    </item>
+    
+  </channel>
+</rss>

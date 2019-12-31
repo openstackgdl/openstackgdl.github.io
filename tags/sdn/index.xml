@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sdn on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/sdn/</link>
+    <description>Recent content in sdn on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/sdn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenContrail an open-source SDN technology for OpenStack Clouds</title>
+      <link>https://openstackgdl.github.io/posts/opencontrail/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/opencontrail/</guid>
+      <description>Tendremos la visita de Edgar Magaña, especialista en Cloud Computing, Network Virtualization, Software-defined Networking (SDN), Network Functions Virtualization (NFV), OpenFlow and OpenStack. Ademas de ser miembro del comite autor de la Networking Guide OpenStack.
+Networking is one of the most challenging aspects to running OpenStack. There exists a lot of SDN vendor plugins and it is very difficult for customer to recognise what is and is not slideware. After investing a lot of time working and testing different Neutron vendor solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

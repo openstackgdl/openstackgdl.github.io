@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>api on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/api/</link>
+    <description>Recent content in api on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack Neutron Upgrade Path</title>
+      <link>https://openstackgdl.github.io/posts/neutron/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/neutron/</guid>
+      <description>Actualmente el desarrollo de OpenStack se encuentra mayor enfocado a ofrecer procedimientos de actualización de sus servicios. El objetivo es que dichos mecanismos no interrumpan el servicio ofrecido a los usuarios finales y vayan alineados a las necesidades requeridas por una solución de Nube. Durante esta charla pretendo cubrir algunos avances realizados en el tema desde el punto de vista del componente OpenStack Networking( aka Neutron).
+Speakers: @electrocucarach</description>
+    </item>
+    
+    <item>
+      <title>Porqué los desarrolladores de software están adoptando OpenStack</title>
+      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <description>APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
+Speakers: @trukutrun</description>
+    </item>
+    
+  </channel>
+</rss>

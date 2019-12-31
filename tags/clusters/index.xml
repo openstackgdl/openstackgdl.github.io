@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clusters on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/clusters/</link>
+    <description>Recent content in clusters on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/clusters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Containers Clusters con Magnum</title>
+      <link>https://openstackgdl.github.io/posts/magnum/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/magnum/</guid>
+      <description>Siempre han existido dudas respecto OpenStack y containers. Lo importante aquí es dejar en claro que ya se encuentra en etapa de desarrollo una herramienta que ofrece este tipo de servicios para el desarrollo de aplicaciones en una nube de OpenStack. Magnum ofrece motores de orquestación para hacer deployment y manejo de contenedores en OpenStack. Y ofrecerlos de este modo a los usuarios de la nube. Se hablaría de sus componentes y pasos básicos de configuración, y si se puede, un ejemplo práctico, si no, pantallazos practicos.</description>
+    </item>
+    
+  </channel>
+</rss>

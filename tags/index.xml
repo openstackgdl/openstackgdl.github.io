@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/</link>
+    <description>Recent content in Tags on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>administration</title>
+      <link>https://openstackgdl.github.io/tags/administration/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://openstackgdl.github.io/tags/cloud/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://openstackgdl.github.io/tags/networking/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openstack</title>
+      <link>https://openstackgdl.github.io/tags/openstack/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://openstackgdl.github.io/tags/7/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>celebration</title>
+      <link>https://openstackgdl.github.io/tags/celebration/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/celebration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clear containers</title>
+      <link>https://openstackgdl.github.io/tags/clear-containers/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/clear-containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>containers</title>
+      <link>https://openstackgdl.github.io/tags/containers/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://openstackgdl.github.io/tags/docker/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://openstackgdl.github.io/tags/kubernetes/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://openstackgdl.github.io/tags/api/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://openstackgdl.github.io/tags/development/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://openstackgdl.github.io/tags/apps/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guadalajara</title>
+      <link>https://openstackgdl.github.io/tags/guadalajara/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/guadalajara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackathon</title>
+      <link>https://openstackgdl.github.io/tags/hackathon/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latinamerica</title>
+      <link>https://openstackgdl.github.io/tags/latinamerica/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/latinamerica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openstack foundation</title>
+      <link>https://openstackgdl.github.io/tags/openstack-foundation/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/openstack-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://openstackgdl.github.io/tags/automation/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deployment</title>
+      <link>https://openstackgdl.github.io/tags/deployment/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elastic</title>
+      <link>https://openstackgdl.github.io/tags/elastic/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/elastic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heat</title>
+      <link>https://openstackgdl.github.io/tags/heat/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible</title>
+      <link>https://openstackgdl.github.io/tags/ansible/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>six</title>
+      <link>https://openstackgdl.github.io/tags/six/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/six/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clusters</title>
+      <link>https://openstackgdl.github.io/tags/clusters/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magnum</title>
+      <link>https://openstackgdl.github.io/tags/magnum/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/magnum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baremetal</title>
+      <link>https://openstackgdl.github.io/tags/baremetal/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/baremetal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ironic</title>
+      <link>https://openstackgdl.github.io/tags/ironic/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/ironic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfv</title>
+      <link>https://openstackgdl.github.io/tags/nfv/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/nfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opencontrail</title>
+      <link>https://openstackgdl.github.io/tags/opencontrail/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/opencontrail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openflow</title>
+      <link>https://openstackgdl.github.io/tags/openflow/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/openflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sdn</title>
+      <link>https://openstackgdl.github.io/tags/sdn/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/sdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vlan</title>
+      <link>https://openstackgdl.github.io/tags/vlan/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/vlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>packstack</title>
+      <link>https://openstackgdl.github.io/tags/packstack/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/packstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poc</title>
+      <link>https://openstackgdl.github.io/tags/poc/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/poc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framework</title>
+      <link>https://openstackgdl.github.io/tags/framework/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snap</title>
+      <link>https://openstackgdl.github.io/tags/snap/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telemetry</title>
+      <link>https://openstackgdl.github.io/tags/telemetry/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/telemetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceph</title>
+      <link>https://openstackgdl.github.io/tags/ceph/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/ceph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storage</title>
+      <link>https://openstackgdl.github.io/tags/storage/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marconi</title>
+      <link>https://openstackgdl.github.io/tags/marconi/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/marconi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>messaging</title>
+      <link>https://openstackgdl.github.io/tags/messaging/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>os</title>
+      <link>https://openstackgdl.github.io/tags/os/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugins</title>
+      <link>https://openstackgdl.github.io/tags/plugins/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stateless</title>
+      <link>https://openstackgdl.github.io/tags/stateless/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/stateless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tempest</title>
+      <link>https://openstackgdl.github.io/tags/tempest/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/tempest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architect</title>
+      <link>https://openstackgdl.github.io/tags/architect/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/architect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cicd</title>
+      <link>https://openstackgdl.github.io/tags/cicd/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/cicd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>continuos integration</title>
+      <link>https://openstackgdl.github.io/tags/continuos-integration/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/continuos-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>installfest</title>
+      <link>https://openstackgdl.github.io/tags/installfest/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/installfest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vpn</title>
+      <link>https://openstackgdl.github.io/tags/vpn/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/vpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vpnaas</title>
+      <link>https://openstackgdl.github.io/tags/vpnaas/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/vpnaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liberty</title>
+      <link>https://openstackgdl.github.io/tags/liberty/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/liberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summit</title>
+      <link>https://openstackgdl.github.io/tags/summit/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fullstack</title>
+      <link>https://openstackgdl.github.io/tags/fullstack/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/fullstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://openstackgdl.github.io/tags/tools/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chef</title>
+      <link>https://openstackgdl.github.io/tags/chef/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>https://openstackgdl.github.io/tags/intro/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implementacion</title>
+      <link>https://openstackgdl.github.io/tags/implementacion/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/implementacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>https://openstackgdl.github.io/tags/planning/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://openstackgdl.github.io/tags/setup/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysadmin</title>
+      <link>https://openstackgdl.github.io/tags/sysadmin/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devstack</title>
+      <link>https://openstackgdl.github.io/tags/devstack/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/devstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keystone</title>
+      <link>https://openstackgdl.github.io/tags/keystone/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/keystone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>begginers</title>
+      <link>https://openstackgdl.github.io/tags/begginers/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/tags/begginers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clear containers on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/clear-containers/</link>
+    <description>Recent content in clear containers on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/clear-containers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack &amp; Kubernetes</title>
+      <link>https://openstackgdl.github.io/posts/kubernetes/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/kubernetes/</guid>
+      <description>El reciente uso de contenedores como alternativa para el hospedaje de aplicaciones de manera rápida y con características de alta disponibilidad y escalamiento nos plantea la pregunta si OpenStack (mayormente enfocado a máquinas virtuales) debería poner más atención a los containers.
+Esta charla trata de cómo los containers están revolucionando el mundo del cómputo en la nube. Hablaremos de tendencias actuales en tecnologías de containers como Kubernetes, Docker y Clear Containers.</description>
+    </item>
+    
+  </channel>
+</rss>

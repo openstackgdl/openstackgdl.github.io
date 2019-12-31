@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fullstack on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/fullstack/</link>
+    <description>Recent content in fullstack on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/fullstack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools for fullstack: Especificacion de requerimientos</title>
+      <link>https://openstackgdl.github.io/posts/tools/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/tools/</guid>
+      <description>La comunidad de OpenStackGDL en un esfuerzo conjunto de las comunidades y ecosistema de tecnología y emprendedor de Guadalajara arrancamos con un programa de difusión de herramientas y procesos para FullStack Development. A lo largo del año cada mes tendremos una reunión en cada comunidad participante y se convocan a los miembros de todas las comunidades a asistir y participar.
+Speakers: @openstackgdl</description>
+    </item>
+    
+  </channel>
+</rss>

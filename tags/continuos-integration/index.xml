@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>continuos integration on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/continuos-integration/</link>
+    <description>Recent content in continuos integration on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/continuos-integration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack Development Process: How we build the world&#39;s fastest growing Open Source project</title>
+      <link>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</guid>
+      <description>En Septiembre de 2015 cumplimos un año, Monty Taylor visita Guadalajara para dar la charla principal, evento e invitado inmejorable.
+Monty es miembro de la mesa directiva de OpenStack, tambien es integrante del Comité Técnico de OpenStack y de la Python Software Foundation. Fue PTL (Project Technical Lead) en el programa de Infraestructura de OpenStack estableciendo el modelo de CI de OpenStack conocido como &amp;ldquo;The gate&amp;rdquo;. Ha dirigido equipos de infraestructura para el desarrollo de OpenStack, así como en la implementación de OpenStack (TripleO) y OpenStack Bare Metal (Ironic).</description>
+    </item>
+    
+  </channel>
+</rss>

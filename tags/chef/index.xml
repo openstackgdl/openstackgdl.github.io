@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chef on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/chef/</link>
+    <description>Recent content in chef on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/chef/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack: Recetas de Chef</title>
+      <link>https://openstackgdl.github.io/posts/chef/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/chef/</guid>
+      <description>La charla de chef describirá a nivel básico cuales son sus funciones y cómo se puede gestionar la configuración de un equipo mediante algunas recetas básicas
+Speakers: @toxickore</description>
+    </item>
+    
+  </channel>
+</rss>

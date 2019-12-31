@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plugins on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/plugins/</link>
+    <description>Recent content in plugins on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stateless OS: From an OpenStack Perspective &amp; Creación de plugins para Tempest</title>
+      <link>https://openstackgdl.github.io/posts/statelessandplugins/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/statelessandplugins/</guid>
+      <description>Stateless OS: From an OpenStack Perspective En esta sesión hablaremos sobre un S.O. stateless, como difiere a otros Sistemas Operativos y qué lo hace especial cuando se configura OpenStack.Habrá un demo para mosotrar la facilidad y rapidez de reiniciar una configuración de OpenStack volviendolo operacional nuevamente.
+Slides Link: Stateless OS: From an OpenStack Perspective
+Creación de plugins para Tempest Gracias a un nuevo feature propuesto en la comunidad, podemos crear plugins independientes del código de Tempest para correr test cases personalizados.</description>
+    </item>
+    
+  </channel>
+</rss>

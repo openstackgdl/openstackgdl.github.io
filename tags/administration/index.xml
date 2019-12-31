@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>administration on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/administration/</link>
+    <description>Recent content in administration on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/administration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenStack for EDGE infrastructure, A cloud with carrier grade performance.</title>
+      <link>https://openstackgdl.github.io/posts/edge/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/edge/</guid>
+      <description>En esta ocasion estaremos hablando sobre OpenStack en el ambiente de las TELCO, que proyectos estan involucrados y como OpenStack nos proporciona una cloud &amp;ldquo;Carrier grade&amp;rdquo;.
+Speakers: @HazzimIO</description>
+    </item>
+    
+    <item>
+      <title>Administración de Redes en ambiente de nube con OpenStack</title>
+      <link>https://openstackgdl.github.io/posts/networkingadmin/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/networkingadmin/</guid>
+      <description>Conoce las últimas características de red en OpenStack (Neutron). Cubriremos lo que viene nuevo en Pike, así como las capacidades de red de algunas de las versiones anteriores. También aprenderás sobre Dragonflow, el SDN más cool de OpenStack, cómo implementa las nuevas capacidades, por qué debería usarlo y cómo puedes obtenerlo. Esta charla le familiarizará con las características y sus use-cases.
+Temas:
+ Revisión básica de la red de neutrones Hierarchical port binding Networking for Kubernetes on OpenStack Address scopes and subnet pools Dynamic routing Port mirroring QoS and bandwidth limiting DNS - Network function orchestration and injection Octavia load-balancing  Slides Link: Administración de Redes en ambiente de nube con OpenStack</description>
+    </item>
+    
+    <item>
+      <title>Administración de Redes en ambiente de nube con OpenStack</title>
+      <link>https://openstackgdl.github.io/posts/developmentwithopenstack/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/developmentwithopenstack/</guid>
+      <description>Interesado en realizar cambios en el código fuente de los servicios de OpenStack? Quieres conocer algunas practicas realizadas por los desarrolladores de OpenStack. Durante esta sesión se compartirán las experiencias utilizadas durante el desarrollo de OpenStack, revision de código y envío de parches. Ven y aprende a contribuir a una de las comunidades de código abierto mas activas.
+Speakers: @electrocucarach</description>
+    </item>
+    
+    <item>
+      <title>OpenStack : A view from a Sysadmin</title>
+      <link>https://openstackgdl.github.io/posts/aviewfromsysadmin/</link>
+      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/aviewfromsysadmin/</guid>
+      <description>Speakers: @HazzimIO</description>
+    </item>
+    
+  </channel>
+</rss>

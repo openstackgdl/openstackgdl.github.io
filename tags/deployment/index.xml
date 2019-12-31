@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deployment on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/deployment/</link>
+    <description>Recent content in deployment on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Despliegue de Web Apps sobre Openstack con Heat</title>
+      <link>https://openstackgdl.github.io/posts/heat/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/heat/</guid>
+      <description>Heat es la herramienta principal de Orquestación de Openstack. Implementa un motor de orquestación para lanzar múltiples aplicaciones basadas en plantillas escritas en YAML. Cómo funciona: - En las plantillas de Heat, se definen los recursos necesarios para lanzar la aplicació, estos son tomados de los servicios disponibles de Openstack. Heat maneja el ciclo de vida de la app y se proveen características como auto-escalabilidad. Dentro de la misma plantilla se puede definir que aplicaciones lanzar directamente con shell scripting o dejar que herramientas de administración, tales como Ansible o Puppet se encarguen de ello.</description>
+    </item>
+    
+    <item>
+      <title>Deploying OpenStack with Ansible</title>
+      <link>https://openstackgdl.github.io/posts/ansible/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/ansible/</guid>
+      <description>Ansible es una poderosa herramienta para el despliegue de aplicaciones, administracion de la configuración y la orquestación de infraestructura. Ansible puede ayudar a implementar un entorno de OpenStack basado en roles y tiene como objetivo a mantener su infraestructura en un estado. Su arquitectura sin agente mantiene la infraestructura limpia, evitando la instalación de clientes para su funcionamiento.
+ Speakers: @LeoswaldoMacias</description>
+    </item>
+    
+    <item>
+      <title>Because not all clouds are Virtual, let&#39;s talk about Ironic</title>
+      <link>https://openstackgdl.github.io/posts/ironic/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/ironic/</guid>
+      <description>Hazzim Annaya nos hablara acerca del proyecto Ironic de OpenStack
+Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? for this case we have the OpenStack bare metal provisioning a.k.a Ironic, an integrated OpenStack program which aims to provision bare metal machines instead of virtual machines</description>
+    </item>
+    
+  </channel>
+</rss>

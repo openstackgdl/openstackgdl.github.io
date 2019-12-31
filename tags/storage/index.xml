@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>storage on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/storage/</link>
+    <description>Recent content in storage on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Defined Storage - What makes Ceph special</title>
+      <link>https://openstackgdl.github.io/posts/softwaredefinedstorage/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/softwaredefinedstorage/</guid>
+      <description>Ceph is an open source distributed object store, network block device, and file system designed for reliability, performance, and scalability. It runs on commodity hardware, has no single point of failure, and is supported in the Linux kernel. This talk is a follow up of a previous talk for OpenStackGDL Introduction to Ceph and architectural overview by Federico Lucifredi
+Federico Lucifredi is the Ceph Product Management Director at Red Hat, and was previously the Ubuntu Server PM at Canonical, and the Linux &amp;ldquo;Systems Management Czar&amp;rdquo; at SUSE.</description>
+    </item>
+    
+  </channel>
+</rss>

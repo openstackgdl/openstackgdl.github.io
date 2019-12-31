@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>messaging on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/messaging/</link>
+    <description>Recent content in messaging on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De Marconi a Zaqar, la evolucion del sistema de mensajería y notificiaciones</title>
+      <link>https://openstackgdl.github.io/posts/marconi/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/marconi/</guid>
+      <description>¿Has escuchado sobre el proyecto Marconi? ¿y sobre Zaqar? Estamos hablando de un mismo proyecto, pero la versión de hoy en día no se parece a nada a sus orígenes. En esta presentación haremos una breve introducción al sistema de mensajería y notificaciones de OpenStack, cuales son sus principales funcionalidades y proveeremos algunos casos de uso. Finalmente presentaremos las nuevas funcionalidades agregadas en el release Liberty de OpenStack y charlaremos sobre los futuros planes del proyecto</description>
+    </item>
+    
+  </channel>
+</rss>

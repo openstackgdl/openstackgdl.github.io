@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>implementacion on OpenStackGDL</title>
+    <link>https://openstackgdl.github.io/tags/implementacion/</link>
+    <description>Recent content in implementacion on OpenStackGDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openstackgdl.github.io/tags/implementacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implementaciones de OpenStack, consideraciones basicas</title>
+      <link>https://openstackgdl.github.io/posts/implementaciones/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/implementaciones/</guid>
+      <description>Before to chose a specific cloud development/deployment model, a cloud architect must consider several technical and business drivers.
+  Openstack considerations and deployments  from Victor Morales  Speakers: @electrocucarach</description>
+    </item>
+    
+  </channel>
+</rss>
