@@ -74,12 +74,22 @@ Speakers: @electrocucarach</description>
     
     <item>
       <title>Porqué los desarrolladores de software están adoptando OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <link>https://openstackgdl.github.io/posts/adopting/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <guid>https://openstackgdl.github.io/posts/adopting/</guid>
       <description>APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
 Speakers: @trukutrun</description>
+    </item>
+    
+    <item>
+      <title>HunterPrice Cloud Aware App con OpenStack</title>
+      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <description>HunterPrice es una app cloud aware con OpenStack, la cual fue desarrollada durante el pasado Hackathon OpenStack esta te permite obtener de manera dinámica los mejores precios de diferentes artículos entre los supermercados cercanos a tu localidad.
+Con el fin de apoyar a la economía individual de las personas, hemos creado una aplicación para hacer una lista de compras que sugiere que articulo comprar en que tienda, teniendo en cuanta la distancia a la que estamos de la tienda y la cantidad de artículos.</description>
     </item>
     
     <item>

@@ -108,8 +108,28 @@
   </url>
   
   <url>
-    <loc>https://openstackgdl.github.io/posts/hunterprice/</loc>
+    <loc>https://openstackgdl.github.io/posts/adopting/</loc>
     <lastmod>2016-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openstackgdl.github.io/tags/app/</loc>
+    <lastmod>2016-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openstackgdl.github.io/tags/hackathon/</loc>
+    <lastmod>2016-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openstackgdl.github.io/posts/hunterprice/</loc>
+    <lastmod>2016-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://openstackgdl.github.io/tags/latinamerica/</loc>
+    <lastmod>2016-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,16 +144,6 @@
   
   <url>
     <loc>https://openstackgdl.github.io/tags/guadalajara/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openstackgdl.github.io/tags/hackathon/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://openstackgdl.github.io/tags/latinamerica/</loc>
     <lastmod>2016-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://openstackgdl.github.io/posts/openstack6/</loc>
+    <loc>https://openstackgdl.github.io/tags/6/</loc>
     <lastmod>2016-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://openstackgdl.github.io/tags/six/</loc>
+    <loc>https://openstackgdl.github.io/posts/openstack6/</loc>
     <lastmod>2016-07-15T00:00:00+00:00</lastmod>
   </url>
   

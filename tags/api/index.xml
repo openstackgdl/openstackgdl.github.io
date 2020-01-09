@@ -23,10 +23,10 @@ Speakers: @electrocucarach</description>
     
     <item>
       <title>Porqué los desarrolladores de software están adoptando OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <link>https://openstackgdl.github.io/posts/adopting/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <guid>https://openstackgdl.github.io/posts/adopting/</guid>
       <description>APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
 Speakers: @trukutrun</description>
     </item>
