@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>keystone on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/keystone/</link>
+    <link>https://www.openstackgdl.org/tags/keystone/</link>
     <description>Recent content in keystone on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/keystone/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/keystone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hacking_keystone</title>
-      <link>https://openstackgdl.github.io/posts/hacking_keystone/</link>
+      <link>https://www.openstackgdl.org/posts/hacking_keystone/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hacking_keystone/</guid>
+      <guid>https://www.openstackgdl.org/posts/hacking_keystone/</guid>
       <description>Presentación utilizada durante la sesión de octubre de OpenStack GDL
   OpenStack GDL : Hacking keystone | 20 Octubre 2014  from Victor Morales  Speakers: @electrocucarach</description>
     </item>

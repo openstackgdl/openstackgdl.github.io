@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>baremetal on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/baremetal/</link>
+    <link>https://www.openstackgdl.org/tags/baremetal/</link>
     <description>Recent content in baremetal on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/baremetal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/baremetal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Because not all clouds are Virtual, let&#39;s talk about Ironic</title>
-      <link>https://openstackgdl.github.io/posts/ironic/</link>
+      <link>https://www.openstackgdl.org/posts/ironic/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/ironic/</guid>
+      <guid>https://www.openstackgdl.org/posts/ironic/</guid>
       <description>Hazzim Annaya nos hablara acerca del proyecto Ironic de OpenStack
 Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? for this case we have the OpenStack bare metal provisioning a.k.a Ironic, an integrated OpenStack program which aims to provision bare metal machines instead of virtual machines</description>
     </item>

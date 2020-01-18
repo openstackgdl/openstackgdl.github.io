@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>liberty on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/liberty/</link>
+    <link>https://www.openstackgdl.org/tags/liberty/</link>
     <description>Recent content in liberty on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/liberty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/liberty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenStack Summit: Experiencias y Novedades</title>
-      <link>https://openstackgdl.github.io/posts/openstacksummitliberty/</link>
+      <link>https://www.openstackgdl.org/posts/openstacksummitliberty/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstacksummitliberty/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstacksummitliberty/</guid>
       <description>Slides Link: OpenStack Summit: Experiencias y Novedades
 Speakers: @electrocucarach @mrsmakika @dlux_cazares</description>
     </item>

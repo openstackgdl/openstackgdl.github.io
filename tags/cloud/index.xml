@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/cloud/</link>
+    <link>https://www.openstackgdl.org/tags/cloud/</link>
     <description>Recent content in cloud on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenStack for EDGE infrastructure, A cloud with carrier grade performance.</title>
-      <link>https://openstackgdl.github.io/posts/edge/</link>
+      <link>https://www.openstackgdl.org/posts/edge/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/edge/</guid>
+      <guid>https://www.openstackgdl.org/posts/edge/</guid>
       <description>En esta ocasion estaremos hablando sobre OpenStack en el ambiente de las TELCO, que proyectos estan involucrados y como OpenStack nos proporciona una cloud &amp;ldquo;Carrier grade&amp;rdquo;.
 Speakers: @HazzimIO</description>
     </item>
     
     <item>
       <title>Administración de Redes en ambiente de nube con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/networkingadmin/</link>
+      <link>https://www.openstackgdl.org/posts/networkingadmin/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/networkingadmin/</guid>
+      <guid>https://www.openstackgdl.org/posts/networkingadmin/</guid>
       <description>Conoce las últimas características de red en OpenStack (Neutron). Cubriremos lo que viene nuevo en Pike, así como las capacidades de red de algunas de las versiones anteriores. También aprenderás sobre Dragonflow, el SDN más cool de OpenStack, cómo implementa las nuevas capacidades, por qué debería usarlo y cómo puedes obtenerlo. Esta charla le familiarizará con las características y sus use-cases.
 Temas:
  Revisión básica de la red de neutrones Hierarchical port binding Networking for Kubernetes on OpenStack Address scopes and subnet pools Dynamic routing Port mirroring QoS and bandwidth limiting DNS - Network function orchestration and injection Octavia load-balancing  Slides Link: Administración de Redes en ambiente de nube con OpenStack</description>
@@ -34,20 +34,20 @@ Temas:
     
     <item>
       <title>Administración de Redes en ambiente de nube con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/developmentwithopenstack/</link>
+      <link>https://www.openstackgdl.org/posts/developmentwithopenstack/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/developmentwithopenstack/</guid>
+      <guid>https://www.openstackgdl.org/posts/developmentwithopenstack/</guid>
       <description>Interesado en realizar cambios en el código fuente de los servicios de OpenStack? Quieres conocer algunas practicas realizadas por los desarrolladores de OpenStack. Durante esta sesión se compartirán las experiencias utilizadas durante el desarrollo de OpenStack, revision de código y envío de parches. Ven y aprende a contribuir a una de las comunidades de código abierto mas activas.
 Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>Deploying my first OpenStack app</title>
-      <link>https://openstackgdl.github.io/posts/openstackapp/</link>
+      <link>https://www.openstackgdl.org/posts/openstackapp/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackapp/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackapp/</guid>
       <description>Esta vez Marcela Bonell @mbonell miembro del App Ecosystem Working Group de OpenStack nos dara un tutorial para crear nuestra primera app usando una nube OpenStack.
 My First App es un tutorial disponible en el portal de developers de OpenStack que sirve como guía para desarrolladores que quieren crear aplicaciones que corran sobre OpenStack.
 En esta sesión los asistentes conocerán los diferentes SDK’s disponibles para desarrollar apps, interactuarán con OpenStack a través de Shade (Python SDK ) y harán el deploy de &amp;ldquo;My First App” en TryStack.</description>
@@ -55,10 +55,10 @@ En esta sesión los asistentes conocerán los diferentes SDK’s disponibles par
     
     <item>
       <title>Cloud101</title>
-      <link>https://openstackgdl.github.io/posts/cloud101/</link>
+      <link>https://www.openstackgdl.org/posts/cloud101/</link>
       <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/cloud101/</guid>
+      <guid>https://www.openstackgdl.org/posts/cloud101/</guid>
       <description>Durante esta sesión hablaremos de fundamentos básicos de la computación de la nube así como sus componentes y características
 Speakers: @cesarlarag</description>
     </item>

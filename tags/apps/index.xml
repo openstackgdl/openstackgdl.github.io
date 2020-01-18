@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>apps on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/apps/</link>
+    <link>https://www.openstackgdl.org/tags/apps/</link>
     <description>Recent content in apps on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>App Hackathon OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hackathongdl/</link>
+      <link>https://www.openstackgdl.org/posts/hackathongdl/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hackathongdl/</guid>
+      <guid>https://www.openstackgdl.org/posts/hackathongdl/</guid>
       <description>Participa en el primer Hackathon de OpenStack en Latinoamérica. Es el segundo de una serie de eventos #CloudAppHack, que proporcionan una oportunidad para vincularte en un movimiento que crece a todo velocidad en todo el mundo. ¡Nuestro objetivo es abrir las app en la nube para dominar el mundo!
   Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Despliegue de Web Apps sobre Openstack con Heat</title>
-      <link>https://openstackgdl.github.io/posts/heat/</link>
+      <link>https://www.openstackgdl.org/posts/heat/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/heat/</guid>
+      <guid>https://www.openstackgdl.org/posts/heat/</guid>
       <description>Heat es la herramienta principal de Orquestación de Openstack. Implementa un motor de orquestación para lanzar múltiples aplicaciones basadas en plantillas escritas en YAML. Cómo funciona: - En las plantillas de Heat, se definen los recursos necesarios para lanzar la aplicació, estos son tomados de los servicios disponibles de Openstack. Heat maneja el ciclo de vida de la app y se proveen características como auto-escalabilidad. Dentro de la misma plantilla se puede definir que aplicaciones lanzar directamente con shell scripting o dejar que herramientas de administración, tales como Ansible o Puppet se encarguen de ello.</description>
     </item>
     
     <item>
       <title>Deploying my first OpenStack app</title>
-      <link>https://openstackgdl.github.io/posts/openstackapp/</link>
+      <link>https://www.openstackgdl.org/posts/openstackapp/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackapp/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackapp/</guid>
       <description>Esta vez Marcela Bonell @mbonell miembro del App Ecosystem Working Group de OpenStack nos dara un tutorial para crear nuestra primera app usando una nube OpenStack.
 My First App es un tutorial disponible en el portal de developers de OpenStack que sirve como guía para desarrolladores que quieren crear aplicaciones que corran sobre OpenStack.
 En esta sesión los asistentes conocerán los diferentes SDK’s disponibles para desarrollar apps, interactuarán con OpenStack a través de Shade (Python SDK ) y harán el deploy de &amp;ldquo;My First App” en TryStack.</description>

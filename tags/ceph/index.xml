@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ceph on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/ceph/</link>
+    <link>https://www.openstackgdl.org/tags/ceph/</link>
     <description>Recent content in ceph on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Dec 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/ceph/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/ceph/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Defined Storage - What makes Ceph special</title>
-      <link>https://openstackgdl.github.io/posts/softwaredefinedstorage/</link>
+      <link>https://www.openstackgdl.org/posts/softwaredefinedstorage/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/softwaredefinedstorage/</guid>
+      <guid>https://www.openstackgdl.org/posts/softwaredefinedstorage/</guid>
       <description>Ceph is an open source distributed object store, network block device, and file system designed for reliability, performance, and scalability. It runs on commodity hardware, has no single point of failure, and is supported in the Linux kernel. This talk is a follow up of a previous talk for OpenStackGDL Introduction to Ceph and architectural overview by Federico Lucifredi
 Federico Lucifredi is the Ceph Product Management Director at Red Hat, and was previously the Ubuntu Server PM at Canonical, and the Linux &amp;ldquo;Systems Management Czar&amp;rdquo; at SUSE.</description>
     </item>
     
     <item>
       <title>Introduction to Ceph and Architectural overview</title>
-      <link>https://openstackgdl.github.io/posts/cephintro/</link>
+      <link>https://www.openstackgdl.org/posts/cephintro/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/cephintro/</guid>
+      <guid>https://www.openstackgdl.org/posts/cephintro/</guid>
       <description>Slides Link: Introduction to Ceph and Architectural overview
 Speakers: @0xf2</description>
     </item>

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/tags/development/</link>
+    <link>https://www.openstackgdl.org/tags/development/</link>
     <description>Recent content in development on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenStack Neutron Upgrade Path</title>
-      <link>https://openstackgdl.github.io/posts/neutron/</link>
+      <link>https://www.openstackgdl.org/posts/neutron/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/neutron/</guid>
+      <guid>https://www.openstackgdl.org/posts/neutron/</guid>
       <description>Actualmente el desarrollo de OpenStack se encuentra mayor enfocado a ofrecer procedimientos de actualización de sus servicios. El objetivo es que dichos mecanismos no interrumpan el servicio ofrecido a los usuarios finales y vayan alineados a las necesidades requeridas por una solución de Nube. Durante esta charla pretendo cubrir algunos avances realizados en el tema desde el punto de vista del componente OpenStack Networking( aka Neutron).
 Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>Porqué los desarrolladores de software están adoptando OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/adopting/</link>
+      <link>https://www.openstackgdl.org/posts/adopting/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/adopting/</guid>
+      <guid>https://www.openstackgdl.org/posts/adopting/</guid>
       <description>APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
 Speakers: @trukutrun</description>
     </item>
     
     <item>
       <title>HunterPrice Cloud Aware App con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <link>https://www.openstackgdl.org/posts/hunterprice/</link>
       <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <guid>https://www.openstackgdl.org/posts/hunterprice/</guid>
       <description>HunterPrice es una app cloud aware con OpenStack, la cual fue desarrollada durante el pasado Hackathon OpenStack esta te permite obtener de manera dinámica los mejores precios de diferentes artículos entre los supermercados cercanos a tu localidad.
 Con el fin de apoyar a la economía individual de las personas, hemos creado una aplicación para hacer una lista de compras que sugiere que articulo comprar en que tienda, teniendo en cuanta la distancia a la que estamos de la tienda y la cantidad de artículos.</description>
     </item>
     
     <item>
       <title>App Hackathon OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hackathongdl/</link>
+      <link>https://www.openstackgdl.org/posts/hackathongdl/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hackathongdl/</guid>
+      <guid>https://www.openstackgdl.org/posts/hackathongdl/</guid>
       <description>Participa en el primer Hackathon de OpenStack en Latinoamérica. Es el segundo de una serie de eventos #CloudAppHack, que proporcionan una oportunidad para vincularte en un movimiento que crece a todo velocidad en todo el mundo. ¡Nuestro objetivo es abrir las app en la nube para dominar el mundo!
   Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Deploying my first OpenStack app</title>
-      <link>https://openstackgdl.github.io/posts/openstackapp/</link>
+      <link>https://www.openstackgdl.org/posts/openstackapp/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackapp/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackapp/</guid>
       <description>Esta vez Marcela Bonell @mbonell miembro del App Ecosystem Working Group de OpenStack nos dara un tutorial para crear nuestra primera app usando una nube OpenStack.
 My First App es un tutorial disponible en el portal de developers de OpenStack que sirve como guía para desarrolladores que quieren crear aplicaciones que corran sobre OpenStack.
 En esta sesión los asistentes conocerán los diferentes SDK’s disponibles para desarrollar apps, interactuarán con OpenStack a través de Shade (Python SDK ) y harán el deploy de &amp;ldquo;My First App” en TryStack.</description>
@@ -64,20 +64,20 @@ En esta sesión los asistentes conocerán los diferentes SDK’s disponibles par
     
     <item>
       <title>OpenStack Development Process: How we build the world&#39;s fastest growing Open Source project</title>
-      <link>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</link>
+      <link>https://www.openstackgdl.org/posts/openstackdevelopmentprocess/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackdevelopmentprocess/</guid>
       <description>En Septiembre de 2015 cumplimos un año, Monty Taylor visita Guadalajara para dar la charla principal, evento e invitado inmejorable.
 Monty es miembro de la mesa directiva de OpenStack, tambien es integrante del Comité Técnico de OpenStack y de la Python Software Foundation. Fue PTL (Project Technical Lead) en el programa de Infraestructura de OpenStack estableciendo el modelo de CI de OpenStack conocido como &amp;ldquo;The gate&amp;rdquo;. Ha dirigido equipos de infraestructura para el desarrollo de OpenStack, así como en la implementación de OpenStack (TripleO) y OpenStack Bare Metal (Ironic).</description>
     </item>
     
     <item>
       <title>Using Devstack</title>
-      <link>https://openstackgdl.github.io/posts/using_devstack/</link>
+      <link>https://www.openstackgdl.org/posts/using_devstack/</link>
       <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/using_devstack/</guid>
+      <guid>https://www.openstackgdl.org/posts/using_devstack/</guid>
       <description>First open session of the Openstack Community GDL | The goal of this session will be installing and configuring work environments for the development and use of OpenStack through Devstack.
  OpenStack GDL : Using DevStack | 22 Julio 2014  from Geronimo Orozco  Speakers: @patux</description>
     </item>

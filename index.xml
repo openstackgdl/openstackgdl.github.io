@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenStackGDL</title>
-    <link>https://openstackgdl.github.io/</link>
+    <link>https://www.openstackgdl.org/</link>
     <description>Recent content on OpenStackGDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://openstackgdl.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.openstackgdl.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenStack for EDGE infrastructure, A cloud with carrier grade performance.</title>
-      <link>https://openstackgdl.github.io/posts/edge/</link>
+      <link>https://www.openstackgdl.org/posts/edge/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/edge/</guid>
+      <guid>https://www.openstackgdl.org/posts/edge/</guid>
       <description>En esta ocasion estaremos hablando sobre OpenStack en el ambiente de las TELCO, que proyectos estan involucrados y como OpenStack nos proporciona una cloud &amp;ldquo;Carrier grade&amp;rdquo;.
 Speakers: @HazzimIO</description>
     </item>
     
     <item>
       <title>Administración de Redes en ambiente de nube con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/networkingadmin/</link>
+      <link>https://www.openstackgdl.org/posts/networkingadmin/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/networkingadmin/</guid>
+      <guid>https://www.openstackgdl.org/posts/networkingadmin/</guid>
       <description>Conoce las últimas características de red en OpenStack (Neutron). Cubriremos lo que viene nuevo en Pike, así como las capacidades de red de algunas de las versiones anteriores. También aprenderás sobre Dragonflow, el SDN más cool de OpenStack, cómo implementa las nuevas capacidades, por qué debería usarlo y cómo puedes obtenerlo. Esta charla le familiarizará con las características y sus use-cases.
 Temas:
  Revisión básica de la red de neutrones Hierarchical port binding Networking for Kubernetes on OpenStack Address scopes and subnet pools Dynamic routing Port mirroring QoS and bandwidth limiting DNS - Network function orchestration and injection Octavia load-balancing  Slides Link: Administración de Redes en ambiente de nube con OpenStack</description>
@@ -34,118 +34,118 @@ Temas:
     
     <item>
       <title>Celebremos 7 años de OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/openstack7/</link>
+      <link>https://www.openstackgdl.org/posts/openstack7/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstack7/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstack7/</guid>
       <description>OpenStack cumple 6 años de su lanzamiento. Es tiempo de celebrar!!! Gracias al patrocinio de la OpenStack Foundation tendremos una gran fiesta :-)
  div.gallery { display: flex; flex-wrap: wrap; } div.gallery a { flex-grow: 1; object-fit: cover; margin: 2px; display: flex; } div.gallery a img { height: 200px; object-fit: cover; flex-grow: 1; }                   Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Administración de Redes en ambiente de nube con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/developmentwithopenstack/</link>
+      <link>https://www.openstackgdl.org/posts/developmentwithopenstack/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/developmentwithopenstack/</guid>
+      <guid>https://www.openstackgdl.org/posts/developmentwithopenstack/</guid>
       <description>Interesado en realizar cambios en el código fuente de los servicios de OpenStack? Quieres conocer algunas practicas realizadas por los desarrolladores de OpenStack. Durante esta sesión se compartirán las experiencias utilizadas durante el desarrollo de OpenStack, revision de código y envío de parches. Ven y aprende a contribuir a una de las comunidades de código abierto mas activas.
 Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>OpenStack &amp; Kubernetes</title>
-      <link>https://openstackgdl.github.io/posts/kubernetes/</link>
+      <link>https://www.openstackgdl.org/posts/kubernetes/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/kubernetes/</guid>
+      <guid>https://www.openstackgdl.org/posts/kubernetes/</guid>
       <description>El reciente uso de contenedores como alternativa para el hospedaje de aplicaciones de manera rápida y con características de alta disponibilidad y escalamiento nos plantea la pregunta si OpenStack (mayormente enfocado a máquinas virtuales) debería poner más atención a los containers.
 Esta charla trata de cómo los containers están revolucionando el mundo del cómputo en la nube. Hablaremos de tendencias actuales en tecnologías de containers como Kubernetes, Docker y Clear Containers.</description>
     </item>
     
     <item>
       <title>OpenStack Neutron Upgrade Path</title>
-      <link>https://openstackgdl.github.io/posts/neutron/</link>
+      <link>https://www.openstackgdl.org/posts/neutron/</link>
       <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/neutron/</guid>
+      <guid>https://www.openstackgdl.org/posts/neutron/</guid>
       <description>Actualmente el desarrollo de OpenStack se encuentra mayor enfocado a ofrecer procedimientos de actualización de sus servicios. El objetivo es que dichos mecanismos no interrumpan el servicio ofrecido a los usuarios finales y vayan alineados a las necesidades requeridas por una solución de Nube. Durante esta charla pretendo cubrir algunos avances realizados en el tema desde el punto de vista del componente OpenStack Networking( aka Neutron).
 Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>Porqué los desarrolladores de software están adoptando OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/adopting/</link>
+      <link>https://www.openstackgdl.org/posts/adopting/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/adopting/</guid>
+      <guid>https://www.openstackgdl.org/posts/adopting/</guid>
       <description>APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
 Speakers: @trukutrun</description>
     </item>
     
     <item>
       <title>HunterPrice Cloud Aware App con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hunterprice/</link>
+      <link>https://www.openstackgdl.org/posts/hunterprice/</link>
       <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hunterprice/</guid>
+      <guid>https://www.openstackgdl.org/posts/hunterprice/</guid>
       <description>HunterPrice es una app cloud aware con OpenStack, la cual fue desarrollada durante el pasado Hackathon OpenStack esta te permite obtener de manera dinámica los mejores precios de diferentes artículos entre los supermercados cercanos a tu localidad.
 Con el fin de apoyar a la economía individual de las personas, hemos creado una aplicación para hacer una lista de compras que sugiere que articulo comprar en que tienda, teniendo en cuanta la distancia a la que estamos de la tienda y la cantidad de artículos.</description>
     </item>
     
     <item>
       <title>App Hackathon OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/hackathongdl/</link>
+      <link>https://www.openstackgdl.org/posts/hackathongdl/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hackathongdl/</guid>
+      <guid>https://www.openstackgdl.org/posts/hackathongdl/</guid>
       <description>Participa en el primer Hackathon de OpenStack en Latinoamérica. Es el segundo de una serie de eventos #CloudAppHack, que proporcionan una oportunidad para vincularte en un movimiento que crece a todo velocidad en todo el mundo. ¡Nuestro objetivo es abrir las app en la nube para dominar el mundo!
   Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Despliegue de Web Apps sobre Openstack con Heat</title>
-      <link>https://openstackgdl.github.io/posts/heat/</link>
+      <link>https://www.openstackgdl.org/posts/heat/</link>
       <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/heat/</guid>
+      <guid>https://www.openstackgdl.org/posts/heat/</guid>
       <description>Heat es la herramienta principal de Orquestación de Openstack. Implementa un motor de orquestación para lanzar múltiples aplicaciones basadas en plantillas escritas en YAML. Cómo funciona: - En las plantillas de Heat, se definen los recursos necesarios para lanzar la aplicació, estos son tomados de los servicios disponibles de Openstack. Heat maneja el ciclo de vida de la app y se proveen características como auto-escalabilidad. Dentro de la misma plantilla se puede definir que aplicaciones lanzar directamente con shell scripting o dejar que herramientas de administración, tales como Ansible o Puppet se encarguen de ello.</description>
     </item>
     
     <item>
       <title>Deploying OpenStack with Ansible</title>
-      <link>https://openstackgdl.github.io/posts/ansible/</link>
+      <link>https://www.openstackgdl.org/posts/ansible/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/ansible/</guid>
+      <guid>https://www.openstackgdl.org/posts/ansible/</guid>
       <description>Ansible es una poderosa herramienta para el despliegue de aplicaciones, administracion de la configuración y la orquestación de infraestructura. Ansible puede ayudar a implementar un entorno de OpenStack basado en roles y tiene como objetivo a mantener su infraestructura en un estado. Su arquitectura sin agente mantiene la infraestructura limpia, evitando la instalación de clientes para su funcionamiento.
  Speakers: @LeoswaldoMacias</description>
     </item>
     
     <item>
       <title>Celebremos 6 años de OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/openstack6/</link>
+      <link>https://www.openstackgdl.org/posts/openstack6/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstack6/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstack6/</guid>
       <description>OpenStack cumple 6 años de su lanzamiento. Es tiempo de celebrar!!! Gracias al patrocinio de la OpenStack Foundation tendremos una gran fiesta :-)
  div.gallery { display: flex; flex-wrap: wrap; } div.gallery a { flex-grow: 1; object-fit: cover; margin: 2px; display: flex; } div.gallery a img { height: 200px; object-fit: cover; flex-grow: 1; }               Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Containers Clusters con Magnum</title>
-      <link>https://openstackgdl.github.io/posts/magnum/</link>
+      <link>https://www.openstackgdl.org/posts/magnum/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/magnum/</guid>
+      <guid>https://www.openstackgdl.org/posts/magnum/</guid>
       <description>Siempre han existido dudas respecto OpenStack y containers. Lo importante aquí es dejar en claro que ya se encuentra en etapa de desarrollo una herramienta que ofrece este tipo de servicios para el desarrollo de aplicaciones en una nube de OpenStack. Magnum ofrece motores de orquestación para hacer deployment y manejo de contenedores en OpenStack. Y ofrecerlos de este modo a los usuarios de la nube. Se hablaría de sus componentes y pasos básicos de configuración, y si se puede, un ejemplo práctico, si no, pantallazos practicos.</description>
     </item>
     
     <item>
       <title>Deploying my first OpenStack app</title>
-      <link>https://openstackgdl.github.io/posts/openstackapp/</link>
+      <link>https://www.openstackgdl.org/posts/openstackapp/</link>
       <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackapp/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackapp/</guid>
       <description>Esta vez Marcela Bonell @mbonell miembro del App Ecosystem Working Group de OpenStack nos dara un tutorial para crear nuestra primera app usando una nube OpenStack.
 My First App es un tutorial disponible en el portal de developers de OpenStack que sirve como guía para desarrolladores que quieren crear aplicaciones que corran sobre OpenStack.
 En esta sesión los asistentes conocerán los diferentes SDK’s disponibles para desarrollar apps, interactuarán con OpenStack a través de Shade (Python SDK ) y harán el deploy de &amp;ldquo;My First App” en TryStack.</description>
@@ -153,68 +153,68 @@ En esta sesión los asistentes conocerán los diferentes SDK’s disponibles par
     
     <item>
       <title>Because not all clouds are Virtual, let&#39;s talk about Ironic</title>
-      <link>https://openstackgdl.github.io/posts/ironic/</link>
+      <link>https://www.openstackgdl.org/posts/ironic/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/ironic/</guid>
+      <guid>https://www.openstackgdl.org/posts/ironic/</guid>
       <description>Hazzim Annaya nos hablara acerca del proyecto Ironic de OpenStack
 Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? Most cloud are based on hypervisors, but what happen when we need all the power available from the hardware for environments like HPC? for this case we have the OpenStack bare metal provisioning a.k.a Ironic, an integrated OpenStack program which aims to provision bare metal machines instead of virtual machines</description>
     </item>
     
     <item>
       <title>OpenContrail an open-source SDN technology for OpenStack Clouds</title>
-      <link>https://openstackgdl.github.io/posts/opencontrail/</link>
+      <link>https://www.openstackgdl.org/posts/opencontrail/</link>
       <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/opencontrail/</guid>
+      <guid>https://www.openstackgdl.org/posts/opencontrail/</guid>
       <description>Tendremos la visita de Edgar Magaña, especialista en Cloud Computing, Network Virtualization, Software-defined Networking (SDN), Network Functions Virtualization (NFV), OpenFlow and OpenStack. Ademas de ser miembro del comite autor de la Networking Guide OpenStack.
 Networking is one of the most challenging aspects to running OpenStack. There exists a lot of SDN vendor plugins and it is very difficult for customer to recognise what is and is not slideware. After investing a lot of time working and testing different Neutron vendor solutions.</description>
     </item>
     
     <item>
       <title>OpenStack PoC usando Packstack</title>
-      <link>https://openstackgdl.github.io/posts/packstack/</link>
+      <link>https://www.openstackgdl.org/posts/packstack/</link>
       <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/packstack/</guid>
+      <guid>https://www.openstackgdl.org/posts/packstack/</guid>
       <description>Packstack es una herramienta para realizar instalaciones de prueba de concepto para OpenStack basada en Puppet y Python. En esta plática analizamos su funcionamiento, desarrollo e impacto en la comunidad de OpenStack.
  Speakers: @imcsk8</description>
     </item>
     
     <item>
       <title>snap – A modern and performant telemetry framework</title>
-      <link>https://openstackgdl.github.io/posts/snap/</link>
+      <link>https://www.openstackgdl.org/posts/snap/</link>
       <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/snap/</guid>
+      <guid>https://www.openstackgdl.org/posts/snap/</guid>
       <description>With the increasing number of connected devices, the need to make more informed compute workload scheduling and orchestration decisions is critical. It is strategically important that telemetry data be exposed with reduced friction to the existing and emerging cloud and data center decision systems (e.g. schedulers) so that they can make the most informed decisions possible. The work demonstrated in this session introduces snap a modern framework for collecting, processing and publishing telemetry data.</description>
     </item>
     
     <item>
       <title>Software Defined Storage - What makes Ceph special</title>
-      <link>https://openstackgdl.github.io/posts/softwaredefinedstorage/</link>
+      <link>https://www.openstackgdl.org/posts/softwaredefinedstorage/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/softwaredefinedstorage/</guid>
+      <guid>https://www.openstackgdl.org/posts/softwaredefinedstorage/</guid>
       <description>Ceph is an open source distributed object store, network block device, and file system designed for reliability, performance, and scalability. It runs on commodity hardware, has no single point of failure, and is supported in the Linux kernel. This talk is a follow up of a previous talk for OpenStackGDL Introduction to Ceph and architectural overview by Federico Lucifredi
 Federico Lucifredi is the Ceph Product Management Director at Red Hat, and was previously the Ubuntu Server PM at Canonical, and the Linux &amp;ldquo;Systems Management Czar&amp;rdquo; at SUSE.</description>
     </item>
     
     <item>
       <title>De Marconi a Zaqar, la evolucion del sistema de mensajería y notificiaciones</title>
-      <link>https://openstackgdl.github.io/posts/marconi/</link>
+      <link>https://www.openstackgdl.org/posts/marconi/</link>
       <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/marconi/</guid>
+      <guid>https://www.openstackgdl.org/posts/marconi/</guid>
       <description>¿Has escuchado sobre el proyecto Marconi? ¿y sobre Zaqar? Estamos hablando de un mismo proyecto, pero la versión de hoy en día no se parece a nada a sus orígenes. En esta presentación haremos una breve introducción al sistema de mensajería y notificaciones de OpenStack, cuales son sus principales funcionalidades y proveeremos algunos casos de uso. Finalmente presentaremos las nuevas funcionalidades agregadas en el release Liberty de OpenStack y charlaremos sobre los futuros planes del proyecto</description>
     </item>
     
     <item>
       <title>Stateless OS: From an OpenStack Perspective &amp; Creación de plugins para Tempest</title>
-      <link>https://openstackgdl.github.io/posts/statelessandplugins/</link>
+      <link>https://www.openstackgdl.org/posts/statelessandplugins/</link>
       <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/statelessandplugins/</guid>
+      <guid>https://www.openstackgdl.org/posts/statelessandplugins/</guid>
       <description>Stateless OS: From an OpenStack Perspective En esta sesión hablaremos sobre un S.O. stateless, como difiere a otros Sistemas Operativos y qué lo hace especial cuando se configura OpenStack.Habrá un demo para mosotrar la facilidad y rapidez de reiniciar una configuración de OpenStack volviendolo operacional nuevamente.
 Slides Link: Stateless OS: From an OpenStack Perspective
 Creación de plugins para Tempest Gracias a un nuevo feature propuesto en la comunidad, podemos crear plugins independientes del código de Tempest para correr test cases personalizados.</description>
@@ -222,20 +222,20 @@ Creación de plugins para Tempest Gracias a un nuevo feature propuesto en la com
     
     <item>
       <title>OpenStack Development Process: How we build the world&#39;s fastest growing Open Source project</title>
-      <link>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</link>
+      <link>https://www.openstackgdl.org/posts/openstackdevelopmentprocess/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstackdevelopmentprocess/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstackdevelopmentprocess/</guid>
       <description>En Septiembre de 2015 cumplimos un año, Monty Taylor visita Guadalajara para dar la charla principal, evento e invitado inmejorable.
 Monty es miembro de la mesa directiva de OpenStack, tambien es integrante del Comité Técnico de OpenStack y de la Python Software Foundation. Fue PTL (Project Technical Lead) en el programa de Infraestructura de OpenStack estableciendo el modelo de CI de OpenStack conocido como &amp;ldquo;The gate&amp;rdquo;. Ha dirigido equipos de infraestructura para el desarrollo de OpenStack, así como en la implementación de OpenStack (TripleO) y OpenStack Bare Metal (Ironic).</description>
     </item>
     
     <item>
       <title>OpenStack Installfest</title>
-      <link>https://openstackgdl.github.io/posts/installfest/</link>
+      <link>https://www.openstackgdl.org/posts/installfest/</link>
       <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/installfest/</guid>
+      <guid>https://www.openstackgdl.org/posts/installfest/</guid>
       <description>Trae tu propia computadora, cables de red, routers para que instales tu Nube privada basada en OpenStack.
 Cupo Limitado a 20 participantes.
 Objetivo El objetivo compartir experiencias de instalación y configuración de componentes de OpenStack y para poder sacar máximo provecho del evento es necesario contar con los siguientes requerimientos:
@@ -244,109 +244,109 @@ Requerimientos: Para instalar OpenStack en una maquinas física:  Sistema Operat
     
     <item>
       <title>VPNaaS con OpenStack</title>
-      <link>https://openstackgdl.github.io/posts/vpnaas/</link>
+      <link>https://www.openstackgdl.org/posts/vpnaas/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/vpnaas/</guid>
+      <guid>https://www.openstackgdl.org/posts/vpnaas/</guid>
       <description>En esta charla hablamos sobre la arquitectura y funcionalidad del módulo de VPNaaS de OpenStack, haremos una demostración de su funcionalidad y platicaremos sobre tu potencial y futuro.
 Speakers: @gnuowned</description>
     </item>
     
     <item>
       <title>OpenStack Summit: Experiencias y Novedades</title>
-      <link>https://openstackgdl.github.io/posts/openstacksummitliberty/</link>
+      <link>https://www.openstackgdl.org/posts/openstacksummitliberty/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/openstacksummitliberty/</guid>
+      <guid>https://www.openstackgdl.org/posts/openstacksummitliberty/</guid>
       <description>Slides Link: OpenStack Summit: Experiencias y Novedades
 Speakers: @electrocucarach @mrsmakika @dlux_cazares</description>
     </item>
     
     <item>
       <title>Tools for fullstack: Especificacion de requerimientos</title>
-      <link>https://openstackgdl.github.io/posts/tools/</link>
+      <link>https://www.openstackgdl.org/posts/tools/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/tools/</guid>
+      <guid>https://www.openstackgdl.org/posts/tools/</guid>
       <description>La comunidad de OpenStackGDL en un esfuerzo conjunto de las comunidades y ecosistema de tecnología y emprendedor de Guadalajara arrancamos con un programa de difusión de herramientas y procesos para FullStack Development. A lo largo del año cada mes tendremos una reunión en cada comunidad participante y se convocan a los miembros de todas las comunidades a asistir y participar.
 Speakers: @openstackgdl</description>
     </item>
     
     <item>
       <title>Introduction to Ceph and Architectural overview</title>
-      <link>https://openstackgdl.github.io/posts/cephintro/</link>
+      <link>https://www.openstackgdl.org/posts/cephintro/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/cephintro/</guid>
+      <guid>https://www.openstackgdl.org/posts/cephintro/</guid>
       <description>Slides Link: Introduction to Ceph and Architectural overview
 Speakers: @0xf2</description>
     </item>
     
     <item>
       <title>OpenStack: Recetas de Chef</title>
-      <link>https://openstackgdl.github.io/posts/chef/</link>
+      <link>https://www.openstackgdl.org/posts/chef/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/chef/</guid>
+      <guid>https://www.openstackgdl.org/posts/chef/</guid>
       <description>La charla de chef describirá a nivel básico cuales son sus funciones y cómo se puede gestionar la configuración de un equipo mediante algunas recetas básicas
 Speakers: @toxickore</description>
     </item>
     
     <item>
       <title>OpenStack &amp; Docker</title>
-      <link>https://openstackgdl.github.io/posts/docker/</link>
+      <link>https://www.openstackgdl.org/posts/docker/</link>
       <pubDate>Mon, 16 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/docker/</guid>
+      <guid>https://www.openstackgdl.org/posts/docker/</guid>
       <description>LXC Container Openstack Mix  Slides Link: Openstack &amp;amp; Docker
 Speakers: @imcsk8</description>
     </item>
     
     <item>
       <title>Implementaciones de OpenStack, consideraciones basicas</title>
-      <link>https://openstackgdl.github.io/posts/implementaciones/</link>
+      <link>https://www.openstackgdl.org/posts/implementaciones/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/implementaciones/</guid>
+      <guid>https://www.openstackgdl.org/posts/implementaciones/</guid>
       <description>Before to chose a specific cloud development/deployment model, a cloud architect must consider several technical and business drivers.
   Openstack considerations and deployments  from Victor Morales  Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>OpenStack : A view from a Sysadmin</title>
-      <link>https://openstackgdl.github.io/posts/aviewfromsysadmin/</link>
+      <link>https://www.openstackgdl.org/posts/aviewfromsysadmin/</link>
       <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/aviewfromsysadmin/</guid>
+      <guid>https://www.openstackgdl.org/posts/aviewfromsysadmin/</guid>
       <description>Speakers: @HazzimIO</description>
     </item>
     
     <item>
       <title>Hacking_keystone</title>
-      <link>https://openstackgdl.github.io/posts/hacking_keystone/</link>
+      <link>https://www.openstackgdl.org/posts/hacking_keystone/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/hacking_keystone/</guid>
+      <guid>https://www.openstackgdl.org/posts/hacking_keystone/</guid>
       <description>Presentación utilizada durante la sesión de octubre de OpenStack GDL
   OpenStack GDL : Hacking keystone | 20 Octubre 2014  from Victor Morales  Speakers: @electrocucarach</description>
     </item>
     
     <item>
       <title>Cloud101</title>
-      <link>https://openstackgdl.github.io/posts/cloud101/</link>
+      <link>https://www.openstackgdl.org/posts/cloud101/</link>
       <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/cloud101/</guid>
+      <guid>https://www.openstackgdl.org/posts/cloud101/</guid>
       <description>Durante esta sesión hablaremos de fundamentos básicos de la computación de la nube así como sus componentes y características
 Speakers: @cesarlarag</description>
     </item>
     
     <item>
       <title>Acerca de</title>
-      <link>https://openstackgdl.github.io/about/</link>
+      <link>https://www.openstackgdl.org/about/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/about/</guid>
+      <guid>https://www.openstackgdl.org/about/</guid>
       <description>OpenStack GDL es un espacio para aprender y compartir conocimiento y experiencias que apuntan al desarrollo de habilidades relacionadas al uso de las tecnologías de OpenStack.
 Normalemente nos reunimos el 3er lunes de cada mes a las 7pm en HackerGarage( https://hackergarage.mx/)
 El grupo inicio en Agosto de 2014</description>
@@ -354,10 +354,10 @@ El grupo inicio en Agosto de 2014</description>
     
     <item>
       <title>Using Devstack</title>
-      <link>https://openstackgdl.github.io/posts/using_devstack/</link>
+      <link>https://www.openstackgdl.org/posts/using_devstack/</link>
       <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://openstackgdl.github.io/posts/using_devstack/</guid>
+      <guid>https://www.openstackgdl.org/posts/using_devstack/</guid>
       <description>First open session of the Openstack Community GDL | The goal of this session will be installing and configuring work environments for the development and use of OpenStack through Devstack.
  OpenStack GDL : Using DevStack | 22 Julio 2014  from Geronimo Orozco  Speakers: @patux</description>
     </item>
