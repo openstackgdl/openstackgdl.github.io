@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>victoria on Open Infrastructure GDL</title>
+    <link>https://www.openstackgdl.org/tags/victoria/</link>
+    <description>Recent content in victoria on Open Infrastructure GDL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 03:00:23 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/victoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Infrastructure Summit 2020</title>
+      <link>https://www.openstackgdl.org/posts/openinfra2020/</link>
+      <pubDate>Sat, 17 Oct 2020 03:00:23 +0000</pubDate>
+      
+      <guid>https://www.openstackgdl.org/posts/openinfra2020/</guid>
+      <description>We have good news! For the first time ever, the Open Infrastructure Summit will be both virtual and free!
+Alibaba Cloud, AT&amp;amp;T, China Mobile, CERN, European Weather Cloud, GE Digital, Volvo Cars and Workday are among the open infrastructure use cases featuring Airship, Kata Containers, Kubernetes, OpenStack, Zuul and 30 other open source technologies that will be presented at the virtual Summit.
+The event includes more than 100 sessions and thousands of attendees are expected to participate, representing 30+ open source communities from more than 110 countries.</description>
+    </item>
+    
+  </channel>
+</rss>
