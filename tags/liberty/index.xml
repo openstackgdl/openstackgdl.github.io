@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>liberty on OpenStackGDL</title>
+    <title>liberty on Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/tags/liberty/</link>
-    <description>Recent content in liberty on OpenStackGDL</description>
+    <description>Recent content in liberty on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/tags/liberty/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/liberty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenStack Summit: Experiencias y Novedades</title>
       <link>https://www.openstackgdl.org/posts/openstacksummitliberty/</link>

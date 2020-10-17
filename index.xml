@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenStackGDL</title>
+    <title>Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/</link>
-    <description>Recent content on OpenStackGDL</description>
+    <description>Recent content on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenStack for EDGE infrastructure, A cloud with carrier grade performance.</title>
       <link>https://www.openstackgdl.org/posts/edge/</link>
@@ -347,7 +343,7 @@ Speakers: @cesarlarag</description>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.openstackgdl.org/about/</guid>
-      <description>OpenStack GDL es un espacio para aprender y compartir conocimiento y experiencias que apuntan al desarrollo de habilidades relacionadas al uso de las tecnologías de OpenStack.
+      <description>Open Infrastructure GDL es un espacio para aprender y compartir conocimiento y experiencias que apuntan al desarrollo de habilidades relacionadas al uso de las tecnologías de OpenStack.
 Normalemente nos reunimos el 3er lunes de cada mes a las 7pm en HackerGarage( https://hackergarage.mx/)
 El grupo inicio en Agosto de 2014</description>
     </item>

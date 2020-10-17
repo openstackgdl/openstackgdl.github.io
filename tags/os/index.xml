@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>os on OpenStackGDL</title>
+    <title>os on Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/tags/os/</link>
-    <description>Recent content in os on OpenStackGDL</description>
+    <description>Recent content in os on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/tags/os/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 19 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/os/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stateless OS: From an OpenStack Perspective &amp; Creación de plugins para Tempest</title>
       <link>https://www.openstackgdl.org/posts/statelessandplugins/</link>

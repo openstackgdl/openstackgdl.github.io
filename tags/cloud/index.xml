@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud on OpenStackGDL</title>
+    <title>cloud on Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/tags/cloud/</link>
-    <description>Recent content in cloud on OpenStackGDL</description>
+    <description>Recent content in cloud on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenStack for EDGE infrastructure, A cloud with carrier grade performance.</title>
       <link>https://www.openstackgdl.org/posts/edge/</link>

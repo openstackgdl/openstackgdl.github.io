@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>app on OpenStackGDL</title>
+    <title>app on Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/tags/app/</link>
-    <description>Recent content in app on OpenStackGDL</description>
+    <description>Recent content in app on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/tags/app/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HunterPrice Cloud Aware App con OpenStack</title>
       <link>https://www.openstackgdl.org/posts/hunterprice/</link>

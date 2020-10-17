@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>openstack foundation on OpenStackGDL</title>
+    <title>openstack foundation on Open Infrastructure GDL</title>
     <link>https://www.openstackgdl.org/tags/openstack-foundation/</link>
-    <description>Recent content in openstack foundation on OpenStackGDL</description>
+    <description>Recent content in openstack foundation on Open Infrastructure GDL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.openstackgdl.org/tags/openstack-foundation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.openstackgdl.org/tags/openstack-foundation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App Hackathon OpenStack</title>
       <link>https://www.openstackgdl.org/posts/hackathongdl/</link>
